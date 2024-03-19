@@ -1,0 +1,12 @@
+packages:
+- package: fivetran/github
+  version: 0.7.0
+- package: fivetran/github_source
+  version: 0.7.1
+- package: fivetran/fivetran_utils
+  version: 0.4.10
+- package: dbt-labs/spark_utils
+  version: 0.3.0
+- package: dbt-labs/dbt_utils
+  version: 1.1.1
+sha1_hash: cb4ea01f2b896a997ba0c561771b652e49c43108
